@@ -1,55 +1,67 @@
 ## **Privacy Policy**
 
-Thammasat University Hospital (“the Hospital” or “we”) respects your privacy rights and is committed to protecting the personal data of users and patients associated with the use of the MEWS (Modified Early Warning Score) application. This application is developed to support patient monitoring and care within the hospital setting.
+Thammasat University Hospital (“the Hospital” or “we”) respects privacy rights and places great importance on the protection of personal data of users and patients related to the use of the MEWS (Modified Early Warning Score) application system, which is developed to monitor the condition of inpatients in the hospital.
 
-This Privacy Policy is intended to clarify the purposes for which personal data is collected, used, disclosed, and/or transferred, as well as the security measures in place to protect such data in compliance with the Personal Data Protection Act B.E. 2562 (2019) (“PDPA”) and other applicable regulations.
+This policy has been prepared to explain the purposes of collecting, using, disclosing, and/or transferring personal data, as well as measures for data protection in accordance with the Personal Data Protection Act B.E. 2562 (2019) (“PDPA”) and related regulations.
 
-1. Scope of Policy
-   This policy applies to all processing activities related to personal data collected via the MEWS application by hospital personnel, including patient data used in the system for clinical monitoring and healthcare service improvement purposes.
+### 1. Scope of the Policy
 
-2. Personal Data We Collect
-   The Hospital may collect the following categories of personal data from users and patients:
+This policy covers all operations related to personal data collected through the MEWS application by hospital personnel, including patient data used in the system for the purpose of health monitoring and improving medical services.
 
-2.1 Data of Authorized Application Users (Medical Personnel)
+### 2. Data We Collect
+
+The Hospital collects personal data of users and patients as follows:
+
+#### 2.1 Data of Application Users (Medical Personnel)
 
 - Full name
 - Nursing ID or Staff Identification Number
 
-  2.2 Data of Patients
+#### 2.2 Data of Patients
 
 - Full name
 - Age
 - Bed number
-- Hospital in-patient identification number
-- Ward name
-- MEWS score history
+- Patient identification number in the hospital system
+- Ward
+- MEWS score recording history
 
-3. Purpose of Data Processing
-   We collect and process personal data on a lawful and ethical basis for the following purposes:
-   To monitor and assess the health condition of patients continuously through the MEWS system
+### 3. Purpose of Data Processing
 
-To enable medical personnel to promptly identify and respond to emergency conditions
+The Hospital collects and processes personal data for lawful and ethical purposes, including continuous monitoring and assessment of patients' health conditions using the MEWS system, enabling timely diagnosis of emergencies by medical personnel, storing MEWS score history to support continuity of care, conducting academic research approved by a legally authorized Human Research Ethics Committee, and analyzing systemic data to enhance the quality of medical service delivery.
 
-To record and maintain MEWS scores for ongoing clinical care and treatment continuity
+### 4. Legal Basis for Data Processing
 
-To support medical research and academic studies approved by a certified Human Research Ethics Committee
+The processing of personal data under this policy is based on the following legal grounds: the necessity to perform tasks in the public interest related to public health, as outlined in Sections 24(4) and 26(1) of the Personal Data Protection Act (PDPA); the necessity for providing medical services and conducting academic research in accordance with the principles approved by a legally authorized Human Research Ethics Committee; and compliance with legal obligations and regulations issued by the Ministry of Public Health or other authorized governmental bodies.
 
-To perform data analytics for improving the hospital’s medical services and operational processes
+### 5. Data Storage and Security Measures
 
-4. Data Disclosure
-   We do not disclose user or patient information to any third-party applications or external individuals.
+Personal data collected will be stored in the Google Firebase Cloud Infrastructure, which adheres to international security standards (e.g., ISO/IEC 27001).
+Access to data is restricted to authorized personnel based on role-based permissions. Security measures include encryption, authentication, and audit logs for access tracking.
 
-5. Human Research Ethics
-   Patient data collected from the application may be used for human research. Such research will be conducted under the approval of the relevant human research ethics committee.
+### 6. Disclosure or Transfer of Personal Data
 
-6. Data Security
-   We implement appropriate technical and administrative measures to protect your data from unauthorized access, loss, or misuse.
+The Hospital does not have a policy to disclose or transfer personal data to third parties, except in specific cases where written consent has been obtained from the data subject, disclosure is required by law or by order of a competent government authority, or the data is used in research approved by a Human Research Ethics Committee with appropriate anonymization or pseudonymization measures in place.
 
-7. Your Rights
-   You may request access to or deletion of your personal data by contacting the application administrator.
+### 7. Human Research Ethics
 
-8. Contact Information
-   If you have any questions regarding this policy, please contact:
+The use of personal data for human research purposes must comply with the following conditions: it must be approved by a legally authorized Human Research Ethics Committee, the data must be anonymized to prevent the identification of individuals, and the research must not infringe upon the rights, freedoms, or human dignity of the data subject.
 
-Email: sw.tse68@gmail.com
-Phone: +66 809-378-891
+8. Rights of Data Subjects
+   Data subjects have rights under the Personal Data Protection Act B.E. 2562, including the right to access their personal data; the right to request correction of inaccurate, outdated, or incomplete information; the right to request deletion or destruction of data when it is no longer necessary; the right to object to data processing in certain cases as permitted by law; and the right to withdraw consent if the data was collected based on such consent. To exercise any of these rights, please contact us through the channels provided in section 9.
+
+### 9. Contact Information
+
+If you have questions, complaints, or wish to exercise your rights as a data subject, please contact:
+
+    Data Controller
+
+    Thammasat University Hospital
+
+    Email: sw.tse68@gmail.com
+
+    Phone: +66 80 937 8891
+
+### 10. Policy Updates
+
+The Hospital reserves the right to update, revise, or amend this policy without prior notice. Any changes will take effect once published through the Hospital’s official channels or the relevant application.
